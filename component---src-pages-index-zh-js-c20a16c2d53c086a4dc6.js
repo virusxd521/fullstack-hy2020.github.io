@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[37],{NIjN:function(n,t,e){"use strict";e.r(t);var a=e("q1tI"),c=e.n(a),i=e("UQMq");t.default=function(){return c.a.createElement(i.a,{lang:"zh",title:"全栈公开课2022"})}}}]);
+//# sourceMappingURL=component---src-pages-index-zh-js-c20a16c2d53c086a4dc6.js.map
